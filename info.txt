@@ -21,7 +21,7 @@ writing in console using console.log
 
 DATATYPES
 
-primitve
+-primitve
 string
 boolean
 undefined
@@ -31,9 +31,19 @@ null
 
 
 
-non-primitve
+-non-primitve
 array-
 collection of items/elements
 stores multiple values 
 it is indexed based
 executes sequentially
+
+Operators 
+
+Arithmatic operators
+bitwise operators
+comparision operators
+logical operators
+assignment operators
+typeof
+trenary of
